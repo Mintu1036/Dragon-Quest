@@ -144,7 +144,7 @@ _Add screenshot here_
 
 ## 👨‍💻 Developer
 
-**Mintu**
+**Abhilash Balabadra**
 
 Created as a Unity game development project to practice 2D platformer mechanics, enemy AI, combat systems, UI design, and scene management.
 
