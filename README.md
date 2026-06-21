@@ -148,10 +148,10 @@ _Add screenshot here_
 
 Created as a Unity game development project to practice 2D platformer mechanics, enemy AI, combat systems, UI design, and scene management.
 
-https://github.com/user-attachments/assets/a67449fc-5c02-44fe-89af-7000bcaf47d7
-
 ---
 
 ## 📄 License
 
 This project is intended for educational and portfolio purposes.
+
+https://github.com/user-attachments/assets/a67449fc-5c02-44fe-89af-7000bcaf47d7
